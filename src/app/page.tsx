@@ -19,7 +19,7 @@ export default function HomePage() {
       <LandingNavbar />
       <main className="flex-1">
         <HeroGeometric
-          badge="AthenaX"
+          badge="HackX"
           title1="Build Amazing"
           title2="Hackathons"
           subtitle="Trustless. Transparent. Unstoppable hackathons on IPFS and Smart Contracts."

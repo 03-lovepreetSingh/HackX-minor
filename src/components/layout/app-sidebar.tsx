@@ -190,9 +190,7 @@ export function AppSidebar({ ...props }: ComponentProps<typeof Sidebar>) {
                     <span className="text-base font-semibold bg-clip-text text-transparent bg-gradient-to-r from-white to-white/70 tracking-tight">
                       HackX
                     </span>
-                    <span className="text-xs text-white/40 -mt-0.5 ml-2">
-                      by AthenaX
-                    </span>
+                    
                   </div>
                 </Link>
               </SidebarMenuButton>
